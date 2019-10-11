@@ -8,4 +8,8 @@ public class Teacher{
 	public String getLocation(){
 		return this.location;
 	}
+
+	public void setLocation(String location){
+		this.lcation = location;
+	}
 }
