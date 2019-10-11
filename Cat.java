@@ -6,4 +6,6 @@ class Cat{
 		System.out.println("Hello World!");
 	}
 	private Dog lover;
+
+	private Cat cat;//小猫咪的新对象
 }
