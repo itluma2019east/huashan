@@ -5,4 +5,5 @@ class Cat{
 	public void enjoy(){
 		System.out.println("Hello World!");
 	}
+	private Dog lover;
 }
