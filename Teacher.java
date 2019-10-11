@@ -4,4 +4,8 @@ public class Teacher{
 	private int age;
 
 	private String location;
+
+	public String getLocation(){
+		return this.location;
+	}
 }
